@@ -1,20 +1,17 @@
-<!DOCTYPE html>
-<html>
-<body>
-
-<h2>Text Input</h2>
-
-<form>
-  First name:<br>
-  <input type="text" name="firstname">
-  <br>
-  Last name:<br>
-  <input type="text" name="lastname">
-</form>
-
-<p>Note that the form itself is not visible.</p>
-
-<p>Also note that the default width of a text input field is 20 characters.</p>
-
-</body>
-</html>
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td> 
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td> 
+    <td>94</td>
+  </tr>
+</table>
