@@ -9,10 +9,5 @@
     <td>Thamsaard</td> 
     <td>20</td>
   </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td> 
-    <td>94</td>
-  </tr>
 </table>
-muna thamsaard
+
