@@ -5,9 +5,9 @@
     <th>Age</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
-    <td>50</td>
+    <td>Muna</td>
+    <td>Thamsaard</td> 
+    <td>20</td>
   </tr>
   <tr>
     <td>Eve</td>
